@@ -1,0 +1,5 @@
+car 13 2 0 AC09_FHG Escort 5 5 Ford
+car 2 30 360 CD20_FDW corolla 5 5 Toyota
+car 0 19 361 QA22_LSD Fiesta 5 3 Ford
+car 2 27 432 SU20_LDS Civic 5 3 Honda
+car 7 0 0 TD15_KCE Corsa 5 3 Vauxhall

@@ -1,0 +1,3 @@
+bike 2 11 237.71 AD20_NEX Trident_660 660 2 Triumph
+bike 0 0 0 WZ22_BND R_1250_GS 1254 2 BMW
+bike 2 0 0 ZQ70_XPS Ninja_400 399 2 Kawasaki
